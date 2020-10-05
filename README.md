@@ -9,5 +9,3 @@ Given images of retina scans, build a model that accurately classifies the level
 ## Approach
 
 I used this competition as an opportunity to experiment with the [`fastai`](https://docs.fast.ai/index.html) vision library, particularly the built-in data augmentation tools.
-
-Most of the code is ported over from the fast.ai course, [Practical Deep Learning for Coders](https://course.fast.ai/)
